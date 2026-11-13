@@ -1,7 +1,7 @@
 {
   "projectId": "wantokpng",
   "appName": "WANTOK PNG",
-  "startUrl": "https://wantokpng.com/",
+  "startUrl": "https://wantokpng.com/app/",
   "userAgentSuffix": "",
   "allowedHosts": [
     "wantokpng.com",
@@ -18,8 +18,8 @@
     "message": "发现新版本，请更新后继续使用",
     "updateUrl": "",
     "downloadPath": "/dl/wantokpng/wantokpng-1-1.0.0.apk",
-    "sha256": "5d16e0d759b551bac1c4b5b75760f876c224a00375d02f0dc8e77ce1f872a4cc",
-    "size": 89490
+    "sha256": "951f1cd3a9b998c7afed0b1b577dc2fc84bdeb3a3c4e0b3a2d4981faf5e2e091",
+    "size": 149001
   },
   "notice": {
     "enabled": false,
